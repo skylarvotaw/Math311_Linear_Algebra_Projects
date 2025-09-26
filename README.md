@@ -11,3 +11,4 @@ https://github.com/skylarvotaw/Math311_Linear_Algebra_Projects/blob/main/Copy_of
 
 2. Solving problems using Colab and matrices
 Using Google Co-lab to estimate patterns with code and matrices.
+https://github.com/skylarvotaw/Math311_Linear_Algebra_Projects/blob/main/The_Ski_Hill_Transition_Matrices_and_Markov_Chains_SV.ipynb
