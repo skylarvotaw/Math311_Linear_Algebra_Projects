@@ -10,5 +10,6 @@ Using Google Co-lab to introduce the idea of solving systems of equations with c
 https://github.com/skylarvotaw/Math311_Linear_Algebra_Projects/blob/main/Copy_of_Math_311_solve_systems_using_computation_and_rref.ipynb
 
 2. Solving problems using Colab and matrices
+   
 Using Google Co-lab to estimate patterns with code and matrices.
 https://github.com/skylarvotaw/Math311_Linear_Algebra_Projects/blob/main/The_Ski_Hill_Transition_Matrices_and_Markov_Chains_SV.ipynb
