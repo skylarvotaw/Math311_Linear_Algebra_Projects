@@ -16,5 +16,5 @@ https://github.com/skylarvotaw/Math311_Linear_Algebra_Projects/blob/main/The_Ski
 
 3. Sports Teams Ranking
 
-Using Google Co-lab to estimate who will win the Homecoming Volleyball Game
+Using Google Co-lab to estimate who will win the Homecoming Volleyball Game.
 https://github.com/skylarvotaw/Math311_Linear_Algebra_Projects/blob/main/Copy_of_Sports_Teams_Rankings.ipynb
