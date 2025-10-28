@@ -18,3 +18,7 @@ https://github.com/skylarvotaw/Math311_Linear_Algebra_Projects/blob/main/The_Ski
 
 Using Google Co-lab to estimate who will win the Homecoming Volleyball Game.
 https://github.com/skylarvotaw/Math311_Linear_Algebra_Projects/blob/main/Copy_of_Sports_Teams_Rankings.ipynb
+
+4. Gram-Schmidt Orthonormal Process
+
+Using Google Co-lab to compute the Gram-Schmidt Orthonormal Process "by hand".
