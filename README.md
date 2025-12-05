@@ -1,6 +1,6 @@
 # Math311_Linear_Algebra_Projects
 
-This is a repository of projects for the Math 311 linear algebra course at Winona State University. It uses google colab and coding in python to explore linear algebra concepts 
+This is a repository of projects for the Math 311 linear algebra course at Winona State University in 2025. It uses Google Colab and coding in python to explore linear algebra concepts. This repository contains 4 different projects where I worked with classmates to motify instructor-provided code. 
 
 # Projects:
 
